@@ -1,0 +1,64 @@
+0.3
+-Additions
+	-Items
+		-Scrolls
+		-Spellbooks
+
+0.2
+-Additions
+	-Props
+		-Campfire
+	-Spells and abilites
+		-Place Campfire
+		-Fireball
+		-Heal
+		-Drain Life
+	-Features
+		-Skills
+		-Races
+	-UI
+		-Functional slots
+		-Dragging and dropping
+		-Tooltips
+-Deletions
+	-Class
+		-Replaced classes with races
+		
+0.1
+-Additions
+	-Dungeons
+		-Old Cellar
+	-Tiles
+		-Stone Tile
+		-Stone Wall
+		-Stone Stairs
+	-Props
+		-Wooden Door
+		-Bronze Door
+		-Silver Door
+		-Golden Door
+		-Torch
+		-Unlit Torch
+	-Classes
+		-Mage
+	-Items
+		-Lesser Health Potion
+		-Health Potion
+		-Greater Health Potion
+		-Sword
+		-Staff
+		-Bronze Key
+		-Silver Key
+		-Golden Key
+	-Monsters
+		-Rat
+	-Features
+		-Creature movement + combat
+		-Interacting with props
+		-Lighting + vision
+		-Inventory + equipment
+		-Mouse interaction
+	-UI
+		-Player info sidebar
+		-Minimap
+		-Healthbars below creatures
